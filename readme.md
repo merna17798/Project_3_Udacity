@@ -16,8 +16,8 @@
 * What is the relationship Stated Monthly Income & Income Verifiable?
 * What is the relationship between Investment From Friends Count & Investment From Friends Amount?
 * What is the relationship among LenderYield and Borrower APR  vs ProsperRating?  
-
-
+* What is the relationship among Borrower Rate and Estimated Loss vs Estimated Effective Yield?
+* What is the relationship amongInvestors and Loan Origination Quarter vs Percent Funded?
 # Conclusion of findings:
 * We found most loans are among completed, current, Defaulted, and charged off; so we recommend making the categories of loan status in the previous categories to make it easier to be tracked and visualized.
 * It isn't necessary to have recommendations to borrow a loan.
@@ -29,3 +29,5 @@
 * The stated monthly income is found to be equally verfied or not; so the income verifiability isn't necessary to confirm loan.
 * The more friends invest, the lower amount of money they invest in the borrower loan and vise versa.
 * This chart confirms the relations between BorrowerAPR and LenderYield, they have strong positive relationship (strong corrolation). Also, it shows that most of loans with lower BorrowerAPR & LenderYield have higher ProsperScore and visa-versa.
+* This chart confirms the relations between Borrower Rate and Estimated Loss, they have positive relationship in most of points and have constant estimated loss at some samples.
+* Almost all borrowes are funded.
